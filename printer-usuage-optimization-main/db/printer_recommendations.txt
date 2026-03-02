@@ -1,0 +1,125 @@
+=== PRINTER: PRN026 ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: The printer has been inactive for 599 days, which is unusually long considering its average page count and maintenance history. It's likely that the printer has reached the end of its lifespan.
+- Optimization Tip: Schedule a thorough inspection or replacement of the printer as soon as possible to avoid further equipment degradation.
+
+=== PRINTER: PRN027 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer's last maintenance was 7 months ago, which is longer than recommended for optimal performance.
+- Optimization Tip: Schedule a proactive maintenance check to be performed within the next 3-4 months.
+
+=== PRINTER: PRN028 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has exceeded 3 years since last maintenance, indicating a high likelihood of increased issues if not addressed soon.
+- Optimization Tip: Schedule a maintenance visit within the next 6 months to perform a thorough inspection and replace worn-out parts.
+
+=== PRINTER: PRN029 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer's last maintenance was over 3 years ago, indicating a potential need for more frequent checks to prevent further issues.
+- Optimization Tip: Run regular diagnostic tests (every 6 months) to monitor the printer's condition and catch any impending problems early.
+
+=== PRINTER: PRN030 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Toner replacement is due, but there's a gap of over 5 months since the last maintenance, indicating inconsistent usage.
+- Optimization Tip: Regularly review printer usage and adjust print volumes to prevent future toner replacements.
+
+=== PRINTER: PRN031 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is overdue for its next maintenance, with an average of 716 days between last maintenance.
+- Optimization Tip: Schedule a power unit repair within the next 2 months to prevent further issues.
+
+=== PRINTER: PRN032 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Schedule a maintenance check to address the growing avg_days_since_maintenance of 974.5, indicating potential issues with print quality or printer performance.
+- Optimization Tip: Consider implementing a regular print volume tracking system to monitor usage patterns and predict future maintenance needs.
+
+=== PRINTER: PRN033 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer's status should be updated to reflect its current maintenance needs, ensuring accurate tracking of future maintenance tasks.
+- Optimization Tip: Schedule a thorough maintenance check for PRN033 every 3-6 months to prevent unexpected issues.
+
+=== PRINTER: PRN034 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Considering the low avg_days_since_maintenance (372.0), the printer is likely still in good working condition, but regular monitoring is recommended.
+- Optimization Tip: Set up print queue alerts to notify administrators of high maintenance counts and upcoming maintenance dates to plan for timely upkeep.
+
+=== PRINTER: PRN035 ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: The printer has been inactive for over 2 years, indicating potential issues that may require professional attention to restore functionality.
+- Optimization Tip: Schedule a regular check-in with the IT department or facilities team to ensure the printer's status is updated and its location remains accurate.
+
+=== PRINTER: PRN036 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has been active for 665 days, indicating regular use is not causing immediate wear and tear.
+- Optimization Tip: Regularly clean print heads to prevent clogging.
+
+=== PRINTER: PRN037 ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: The printer is due for a major maintenance, considering its high usage and low average days since last maintenance.
+- Optimization Tip: Schedule a professional tune-up for PRN037 within the next 12 months to ensure optimal performance.
+
+=== PRINTER: PRN038 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is due for a scheduled maintenance check to ensure optimal performance.
+- Optimization Tip: Schedule a routine calibration of the printer's paper tray alignment every 3 months to prevent misfeeds.
+
+=== PRINTER: PRN039 ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: The printer has been inactive for a long time, indicating it may be faulty or in need of repair.
+- Optimization Tip: Schedule a professional maintenance check-up to assess the printer's condition and identify potential issues.
+
+=== PRINTER: PRN040 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Given the high average days since last maintenance (562.5), it's recommended to schedule a routine check-up soon to prevent potential issues.
+- Optimization Tip: Consider implementing a regular printer monitoring system to track usage and detect any potential problems early on, reducing downtime and increasing overall efficiency.
+
+=== PRINTER: PRN041 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has exceeded its recommended maintenance interval, indicating potential increased wear and tear if not addressed soon.
+- Optimization Tip: Schedule a preventive maintenance check every 6 months to avoid similar situations.
+
+=== PRINTER: PRN042 ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: The printer has been in maintenance mode for over a year, indicating potential issues that may not be easily resolvable by routine maintenance.
+- Optimization Tip: Schedule a professional service visit to assess and address any underlying issues causing the prolonged maintenance.
+
+=== PRINTER: PRN043 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer's last maintenance was 4 years ago, indicating a potential need for more frequent maintenance to prevent paper jams and print resolution issues.
+- Optimization Tip: Check and clean the printer's auto-feeder regularly to ensure smooth operation.
+
+=== PRINTER: PRN044 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has not been maintained for over a year, which may lead to decreased performance or printing quality issues.
+- Optimization Tip: Schedule a maintenance visit within the next 6 months to ensure optimal printer performance and prevent potential problems.
+
+=== PRINTER: PRN045 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Given the printer's high page count, regular maintenance is crucial to prevent mechanical issues.
+- Optimization Tip: Schedule a color calibration check within the next 3 months to ensure accurate printing.
+
+=== PRINTER: PRN046 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Schedule a thorough cleaning of the printer to prevent dust buildup, given the cooling fan check maintenance was performed 76 days ago.
+- Optimization Tip: Run the printer's self-test and diagnostic tools every month to ensure optimal performance.
+
+=== PRINTER: PRN047 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Due to only 4 scheduled maintenance, and a low avg_days_since_maintenance of 698 days, further monitoring might be necessary to avoid printer downtime.
+- Optimization Tip: Regularly check printer usage patterns and adjust for optimal page counts.
+
+=== PRINTER: PRN048 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Since the printer is active, perform a series of diagnostic checks to ensure optimal performance.
+- Optimization Tip: Run a print head alignment test every 6 months to prevent wear and tear.
+
+=== PRINTER: PRN049 ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Given the printer's average days since last maintenance (488.6) is relatively low, consider a routine checkup to ensure optimal performance before it becomes outdated.
+- Optimization Tip: Run a printer calibration report using the manufacturer's software to adjust settings for accurate color representation and page counting.
+
+=== PRINTER: PRN050 ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: The printer has been in "maintenance" status for an extended period, indicating possible underlying issues that require professional attention to prevent further damage.
+- Optimization Tip: Run a diagnostic test every 30 days to monitor printer performance and catch any emerging issues early.
+

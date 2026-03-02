@@ -1,0 +1,76 @@
+record_id,printer_id_x,recommendation_type_x,predicted_savings_lasso,printer_id_y,recommendation_type_y
+7,2,Activate toner save mode for black-and-white prints,86.56824562201265,PRN003,consolidation
+4,1,Activate toner-saver mode for daily printing tasks,84.83605387661814,PRN002,duplex
+2,0,Check for paper jams and clean feed rollers every month,83.10386213122361,PRN001,maintenance
+6,1,Check for paper jams and clean feed rollers every month,81.91498257133165,PRN002,maintenance
+8,2,Check for paper jams and clean feed rollers every month,80.7261030114397,PRN003,maintenance
+3,0,Enable draft mode for non-client-facing documents,80.18279082593713,PRN001,paper_saving
+18,5,Activate toner-saver mode for daily printing tasks,80.08053563705032,PRN006,duplex
+12,3,Check for paper jams and clean feed rollers every month,79.53722345154776,PRN004,maintenance
+16,5,Check for paper jams and clean feed rollers every month,77.15946433176384,PRN006,maintenance
+11,3,Enable draft mode for non-client-facing documents,76.61615214626127,PRN004,paper_saving
+20,6,Check for paper jams and clean feed rollers every month,75.9705847718719,PRN007,maintenance
+14,4,Enable draft mode for non-client-facing documents,75.42727258636933,PRN005,paper_saving
+29,9,Activate toner-saver mode for daily printing tasks,75.32501739748251,PRN010,duplex
+22,7,Check for paper jams and clean feed rollers every month,74.78170521197994,PRN008,maintenance
+17,5,Enable draft mode for non-client-facing documents,74.23839302647738,PRN006,paper_saving
+32,10,Activate toner-saver mode for daily printing tasks,74.13613783759057,PRN011,duplex
+10,3,Enable duplex as default for routine documents,73.69508084097481,PRN004,quota
+25,8,Check for paper jams and clean feed rollers every month,73.592825652088,PRN009,maintenance
+21,6,Enable draft mode for non-client-facing documents,73.04951346658542,PRN007,paper_saving
+36,11,Activate toner-saver mode for daily printing tasks,72.94725827769861,PRN012,duplex
+28,9,Check for paper jams and clean feed rollers every month,72.40394609219604,PRN010,maintenance
+24,7,Enable draft mode for non-client-facing documents,71.86063390669347,PRN008,paper_saving
+1,0,Enable duplex printing as default for all reports,71.41957691007771,PRN001,toner_saving
+31,10,Check for paper jams and clean feed rollers every month,71.21506653230409,PRN011,maintenance
+26,8,Enable draft mode for non-client-facing documents,70.67175434680152,PRN009,paper_saving
+42,13,Activate toner-saver mode for daily printing tasks,70.5694991579147,PRN014,duplex
+5,1,Enable duplex printing as default for all reports,70.23069735018576,PRN002,toner_saving
+34,11,Check for paper jams and clean feed rollers every month,70.02618697241213,PRN012,maintenance
+13,4,Enable duplex printing as default,69.58512997579638,PRN005,replacement
+9,2,Enable duplex printing as default for all reports,69.0418177902938,PRN003,toner_saving
+38,12,Check for paper jams and clean feed rollers every month,68.83730741252019,PRN013,maintenance
+33,10,Enable draft mode for non-client-facing documents,68.29399522701762,PRN011,paper_saving
+47,15,Activate toner-saver mode for daily printing tasks,68.1917400381308,PRN016,duplex
+40,13,Check for paper jams and clean feed rollers every month,67.64842785262823,PRN014,maintenance
+15,4,Enable duplex printing as default for all reports,66.6640586705099,PRN005,toner_saving
+43,14,Check for paper jams and clean feed rollers every month,66.45954829273629,PRN015,maintenance
+37,12,Enable draft mode for non-client-facing documents,65.91623610723371,PRN013,paper_saving
+52,17,Activate toner-saver mode for daily printing tasks,65.8139809183469,PRN018,duplex
+46,15,Check for paper jams and clean feed rollers every month,65.27066873284433,PRN016,maintenance
+41,13,Enable draft mode for non-client-facing documents,64.72735654734176,PRN014,paper_saving
+57,18,Activate toner-saver mode for daily printing tasks,64.62510135845494,PRN019,duplex
+19,6,Enable duplex printing as default for all reports,64.286299550726,PRN007,toner_saving
+50,16,Check for paper jams and clean feed rollers every month,64.08178917295237,PRN017,maintenance
+45,14,Enable draft mode for non-client-facing documents,63.53847698744981,PRN015,paper_saving
+60,19,Activate toner-saver mode for daily printing tasks,63.436221798563,PRN020,duplex
+23,7,Enable duplex printing as default for all reports,63.09741999083405,PRN008,toner_saving
+53,17,Check for paper jams and clean feed rollers every month,62.892909613060425,PRN018,maintenance
+27,8,Enable duplex printing as default for all reports,61.9085404309421,PRN009,toner_saving
+56,18,Check for paper jams and clean feed rollers every month,61.70403005316848,PRN019,maintenance
+49,16,Enable draft mode for non-client-facing documents,61.1607178676659,PRN017,paper_saving
+64,21,Activate toner-saver mode for daily printing tasks,61.05846267877909,PRN022,duplex
+30,9,Enable duplex printing as default for all reports,60.71966087105015,PRN010,toner_saving
+58,19,Check for paper jams and clean feed rollers every month,60.51515049327652,PRN020,maintenance
+54,17,Enable draft mode for non-client-facing documents,59.97183830777395,PRN018,paper_saving
+69,22,Activate toner-saver mode for daily printing tasks,59.869583118887135,PRN023,duplex
+62,20,Check for paper jams and clean feed rollers every month,59.32627093338457,PRN021,maintenance
+72,23,Activate toner-saver mode for daily printing tasks,58.68070355899519,PRN024,duplex
+35,11,Enable duplex printing as default for all reports,58.34190175126624,PRN012,toner_saving
+65,21,Check for paper jams and clean feed rollers every month,58.13739137349262,PRN022,maintenance
+39,12,Enable duplex printing as default for all reports,57.15302219137429,PRN013,toner_saving
+68,22,Check for paper jams and clean feed rollers every month,56.94851181360067,PRN023,maintenance
+61,20,Enable draft mode for non-client-facing documents,56.405199628098096,PRN021,paper_saving
+70,23,Check for paper jams and clean feed rollers every month,55.75963225370872,PRN024,maintenance
+44,14,Enable duplex printing as default for all reports,54.77526307159039,PRN015,toner_saving
+73,24,Check for paper jams and clean feed rollers every month,54.570752693816765,PRN025,maintenance
+67,22,Enable draft mode for non-client-facing documents,54.02744050831419,PRN023,paper_saving
+48,15,Enable duplex printing as default for all reports,53.58638351169844,PRN016,toner_saving
+51,16,Enable duplex printing as default for all reports,52.397503951806485,PRN017,toner_saving
+74,24,Enable draft mode for non-client-facing documents,51.64968138853029,PRN025,paper_saving
+55,18,Enable duplex printing as default for all reports,50.019744832022575,PRN019,toner_saving
+59,19,Enable duplex printing as default for all reports,48.83086527213062,PRN020,toner_saving
+63,20,Enable duplex printing as default for all reports,47.64198571223867,PRN021,toner_saving
+66,21,Enable duplex printing as default for all reports,46.45310615234672,PRN022,toner_saving
+71,23,Enable duplex printing as default for all reports,44.07534703256282,PRN024,toner_saving
+75,24,Enable duplex printing as default for all reports,42.88646747267087,PRN025,toner_saving

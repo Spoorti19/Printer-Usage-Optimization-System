@@ -1,0 +1,143 @@
+record_id,printer_id,maintenance_date,technician,description,cost
+MNT001,PRN001,2023-10-16,"Amanda Rodriguez","Paper jam fix",395
+MNT002,PRN022,2024-01-13,"Jessica Martinez","Firmware update",350
+MNT003,PRN005,2024-01-15,"Emily Davis","Roller replacement",96
+MNT004,PRN010,2024-01-17,"David Wilson","Firmware update",440
+MNT005,PRN002,2024-01-20,"Emily Davis","Paper jam fix",310
+MNT006,PRN012,2024-01-22,"Brian Evans","Routine maintenance",203
+MNT007,PRN008,2024-01-25,"David Wilson","Routine maintenance",264
+MNT008,PRN001,2024-02-10,"Emily Davis","Roller replacement",465
+MNT009,PRN011,2024-02-11,"Emily Davis","Paper jam fix",400
+MNT010,PRN015,2024-02-15,"Brian Evans","Roller replacement",375
+MNT011,PRN020,2024-02-18,"Olivia Garcia","Routine maintenance",330
+MNT012,PRN024,2024-02-18,"John Smith","Firmware update",147
+MNT013,PRN021,2024-02-19,"Sarah Johnson","Roller replacement",120
+MNT014,PRN019,2024-02-20,"Michael Lee","Sensor calibration",298
+MNT015,PRN016,2024-02-25,"Emily Davis","Roller replacement",296
+MNT016,PRN004,2024-02-28,"Kevin Thompson","Sensor calibration",353
+MNT017,PRN023,2024-02-28,"John Smith","Firmware update",427
+MNT018,PRN025,2024-02-28,"Michael Lee","Roller replacement",214
+MNT019,PRN006,2024-03-01,"David Wilson","Paper jam fix",494
+MNT020,PRN018,2024-03-02,"Michael Lee","Paper jam fix",346
+MNT021,PRN013,2024-03-04,"Emily Davis","Sensor calibration",440
+MNT022,PRN003,2024-03-05,"Michael Lee","Paper jam fix",102
+MNT023,PRN006,2024-03-05,"Kevin Thompson","Paper jam fix",171
+MNT024,PRN020,2024-03-08,"Sarah Johnson","Roller replacement",399
+MNT025,PRN014,2024-03-09,"Kevin Thompson","Firmware update",315
+MNT026,PRN009,2024-03-10,"Jessica Martinez","Routine maintenance",164
+MNT027,PRN021,2024-03-11,"John Smith","Sensor calibration",234
+MNT028,PRN007,2024-03-12,"Amanda Rodriguez","Paper jam fix",129
+MNT029,PRN017,2024-03-14,"David Wilson","Routine maintenance",469
+MNT030,PRN005,2024-03-20,"Brian Evans","Firmware update",348
+MNT031,PRN006,2024-03-21,"Olivia Garcia","Routine maintenance",176
+MNT032,PRN002,2024-03-26,"David Wilson","Sensor calibration",154
+MNT033,PRN012,2024-03-28,"Kevin Thompson","Paper jam fix",210
+MNT034,PRN020,2024-03-29,"Brian Evans","Paper jam fix",108
+MNT035,PRN017,2024-03-30,"Jessica Martinez","Routine maintenance",205
+MNT036,PRN006,2024-03-31,"Brian Evans","Paper jam fix",294
+MNT037,PRN021,2024-04-05,"Michael Lee","Sensor calibration",324
+MNT038,PRN006,2024-04-11,"John Smith","Routine maintenance",107
+MNT039,PRN006,2024-04-15,"David Wilson","Firmware update",99
+MNT040,PRN017,2024-04-16,"Jessica Martinez","Sensor calibration",169
+MNT041,PRN010,2024-04-17,"Amanda Rodriguez","Firmware update",442
+MNT042,PRN015,2024-04-17,"Brian Evans","Paper jam fix",327
+MNT043,PRN020,2024-04-22,"Amanda Rodriguez","Roller replacement",399
+MNT044,PRN008,2024-04-25,"Olivia Garcia","Paper jam fix",259
+MNT045,PRN021,2024-04-26,"Michael Lee","Routine maintenance",271
+MNT046,PRN025,2024-04-29,"Sarah Johnson","Roller replacement",101
+MNT047,PRN004,2024-04-30,"Kevin Thompson","Paper jam fix",493
+MNT048,PRN023,2024-04-30,"David Wilson","Roller replacement",498
+MNT049,PRN017,2024-04-30,"Emily Davis","Sensor calibration",336
+MNT050,PRN006,2024-04-30,"David Wilson","Paper jam fix",444
+MNT051,PRN022,2024-05-01,"Emily Davis","Roller replacement",442
+MNT052,PRN018,2024-05-07,"Amanda Rodriguez","Sensor calibration",317
+MNT053,PRN013,2024-05-08,"Kevin Thompson","Routine maintenance",378
+MNT054,PRN003,2024-05-09,"Jessica Martinez","Routine maintenance",469
+MNT055,PRN024,2024-05-09,"Amanda Rodriguez","Paper jam fix",376
+MNT056,PRN021,2024-05-10,"Emily Davis","Routine maintenance",128
+MNT057,PRN017,2024-05-14,"Brian Evans","Paper jam fix",296
+MNT058,PRN009,2024-05-16,"Jessica Martinez","Paper jam fix",253
+MNT059,PRN005,2024-05-21,"Olivia Garcia","Paper jam fix",338
+MNT060,PRN017,2024-05-21,"Emily Davis","Roller replacement",132
+MNT061,PRN002,2024-05-22,"Emily Davis","Firmware update",104
+MNT062,PRN021,2024-05-24,"Olivia Garcia","Paper jam fix",195
+MNT063,PRN012,2024-05-29,"Brian Evans","Paper jam fix",341
+MNT064,PRN017,2024-06-05,"David Wilson","Sensor calibration",208
+MNT065,PRN001,2024-06-11,"John Smith","Routine maintenance",467
+MNT066,PRN015,2024-06-18,"Jessica Martinez","Roller replacement",329
+MNT067,PRN011,2024-06-21,"Amanda Rodriguez","Paper jam fix",110
+MNT068,PRN023,2024-06-27,"John Smith","Roller replacement",183
+MNT069,PRN016,2024-06-28,"Jessica Martinez","Firmware update",374
+MNT070,PRN019,2024-06-28,"Amanda Rodriguez","Sensor calibration",468
+MNT071,PRN004,2024-06-29,"John Smith","Paper jam fix",487
+MNT072,PRN025,2024-06-29,"Brian Evans","Paper jam fix",150
+MNT073,PRN018,2024-07-03,"Kevin Thompson","Paper jam fix",380
+MNT074,PRN013,2024-07-05,"Emily Davis","Firmware update",189
+MNT075,PRN003,2024-07-08,"David Wilson","Firmware update",138
+MNT076,PRN009,2024-07-11,"Emily Davis","Firmware update",463
+MNT077,PRN005,2024-07-16,"Jessica Martinez","Firmware update",156
+MNT078,PRN014,2024-07-18,"Kevin Thompson","Paper jam fix",468
+MNT079,PRN007,2024-07-19,"Olivia Garcia","Sensor calibration",222
+MNT080,PRN002,2024-07-22,"Jessica Martinez","Paper jam fix",46
+MNT081,PRN012,2024-07-24,"Michael Lee","Routine maintenance",462
+MNT082,PRN015,2024-08-18,"Michael Lee","Routine maintenance",311
+MNT083,PRN004,2024-08-29,"Michael Lee","Paper jam fix",222
+MNT084,PRN023,2024-08-29,"Michael Lee","Firmware update",441
+MNT085,PRN025,2024-08-29,"Sarah Johnson","Roller replacement",441
+MNT086,PRN008,2024-08-30,"Jessica Martinez","Firmware update",327
+MNT087,PRN018,2024-09-05,"Olivia Garcia","Routine maintenance",73
+MNT088,PRN013,2024-09-06,"Brian Evans","Paper jam fix",182
+MNT089,PRN003,2024-09-07,"John Smith","Firmware update",294
+MNT090,PRN009,2024-09-09,"Jessica Martinez","Paper jam fix",273
+MNT091,PRN024,2024-09-15,"Olivia Garcia","Sensor calibration",93
+MNT092,PRN022,2024-09-18,"Olivia Garcia","Paper jam fix",44
+MNT093,PRN005,2024-09-18,"Sarah Johnson","Paper jam fix",264
+MNT094,PRN002,2024-09-23,"Emily Davis","Paper jam fix",307
+MNT095,PRN010,2024-09-26,"Sarah Johnson","Paper jam fix",488
+MNT096,PRN012,2024-09-26,"Olivia Garcia","Firmware update",125
+MNT097,PRN011,2024-10-09,"Kevin Thompson","Routine maintenance",380
+MNT098,PRN016,2024-10-17,"Emily Davis","Roller replacement",420
+MNT099,PRN015,2024-10-20,"Sarah Johnson","Firmware update",274
+MNT100,PRN019,2024-10-23,"John Smith","Routine maintenance",140
+MNT101,PRN004,2024-10-28,"Emily Davis","Firmware update",434
+MNT102,PRN023,2024-10-30,"Olivia Garcia","Roller replacement",162
+MNT103,PRN013,2024-11-07,"Kevin Thompson","Sensor calibration",244
+MNT104,PRN018,2024-11-07,"Amanda Rodriguez","Routine maintenance",434
+MNT105,PRN003,2024-11-09,"Amanda Rodriguez","Roller replacement",124
+MNT106,PRN009,2024-11-10,"Emily Davis","Paper jam fix",297
+MNT107,PRN007,2024-11-11,"John Smith","Sensor calibration",63
+MNT108,PRN005,2024-11-19,"Emily Davis","Roller replacement",297
+MNT109,PRN002,2024-11-25,"Olivia Garcia","Sensor calibration",204
+MNT110,PRN014,2024-11-27,"Kevin Thompson","Routine maintenance",347
+MNT111,PRN012,2024-11-27,"David Wilson","Roller replacement",411
+MNT112,PRN024,2024-12-19,"Michael Lee","Sensor calibration",192
+MNT113,PRN015,2024-12-22,"Jessica Martinez","Firmware update",496
+MNT114,PRN023,2024-12-29,"John Smith","Firmware update",240
+MNT115,PRN025,2024-12-30,"Emily Davis","Paper jam fix",55
+MNT116,PRN004,2024-12-30,"Amanda Rodriguez","Roller replacement",105
+MNT117,PRN008,2025-01-06,"Amanda Rodriguez","Firmware update",363
+MNT118,PRN003,2025-01-08,"Kevin Thompson","Firmware update",451
+MNT119,PRN013,2025-01-08,"Michael Lee","Sensor calibration",387
+MNT120,PRN018,2025-01-08,"David Wilson","Sensor calibration",250
+MNT121,PRN009,2025-01-12,"Olivia Garcia","Paper jam fix",149
+MNT122,PRN005,2025-01-21,"Amanda Rodriguez","Firmware update",379
+MNT123,PRN010,2025-01-25,"Emily Davis","Routine maintenance",128
+MNT124,PRN002,2025-01-27,"John Smith","Sensor calibration",86
+MNT125,PRN012,2025-01-30,"Amanda Rodriguez","Sensor calibration",360
+MNT126,PRN001,2025-02-12,"Sarah Johnson","Paper jam fix",322
+MNT127,PRN022,2025-02-22,"Emily Davis","Paper jam fix",464
+MNT128,PRN015,2025-02-23,"Emily Davis","Firmware update",232
+MNT129,PRN019,2025-02-26,"Emily Davis","Roller replacement",76
+MNT130,PRN025,2025-02-27,"John Smith","Paper jam fix",187
+MNT131,PRN004,2025-02-27,"Jessica Martinez","Sensor calibration",500
+MNT132,PRN011,2025-02-28,"Jessica Martinez","Roller replacement",406
+MNT133,PRN016,2025-02-28,"Brian Evans","Paper jam fix",440
+MNT134,PRN023,2025-02-28,"Olivia Garcia","Roller replacement",207
+MNT135,PRN014,2025-03-09,"Amanda Rodriguez","Paper jam fix",402
+MNT136,PRN003,2025-03-09,"Kevin Thompson","Routine maintenance",151
+MNT137,PRN013,2025-03-09,"Jessica Martinez","Routine maintenance",211
+MNT138,PRN018,2025-03-10,"Jessica Martinez","Paper jam fix",486
+MNT139,PRN009,2025-03-13,"Brian Evans","Sensor calibration",281
+MNT140,PRN024,2025-03-19,"Jessica Martinez","Firmware update",51
+MNT141,PRN007,2025-03-28,"John Smith","Sensor calibration",209
+MNT142,PRN025,2025-04-24,"Jessica Martinez","Sensor calibration",333

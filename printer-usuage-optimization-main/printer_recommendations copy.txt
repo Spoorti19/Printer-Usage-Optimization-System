@@ -1,0 +1,133 @@
+=== PRINTER: PRN001 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Given the active status, it's likely that the printer is still functioning correctly and doesn't require immediate replacement or relocation.
+- Optimization Tip: Check for firmware updates to ensure optimal performance.
+
+=== PRINTER: PRN002 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The active status suggests that the printer is still functioning, but maintenance records indicate a need for more frequent servicing (every 20 days).
+- Optimization Tip: Consider scheduling regular check-ins with IT to monitor and maintain the printer's performance.
+
+=== PRINTER: PRN003 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is currently in a maintenance status, which is not uncommon after an extensive maintenance cycle in 2024-2025.
+- Optimization Tip: Monitor the printer's cooling fan check to avoid overheating issues.
+
+=== PRINTER: PRN004 === ===
+- Status Recommendation: Replace
+- Maintenance Suggestion: Due to outdated model year (2023), consider upgrading to a newer, more efficient printer.
+- Optimization Tip: Monitor the printer's usage closely to prevent excessive wear and tear on its components.
+
+=== PRINTER: PRN005 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer's status is active, indicating it has not experienced any recent issues that would warrant replacement or relocation.
+- Optimization Tip: Check printer dust regularly to prevent clogging.
+
+=== PRINTER: PRN006 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has been active for a long time, indicating its reliability. However, its maintenance cost is relatively high, suggesting frequent wear and tear.
+- Optimization Tip: Consider scheduling regular preventive maintenance to reduce future costs.
+
+=== PRINTER: PRN007 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Since the printer is active, it should be kept as long as its maintenance records are up-to-date.
+- Optimization Tip: Schedule a software update to prevent firmware from becoming outdated.
+
+=== PRINTER: PRN008 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Considering the low page count since last firmware update, it's recommended to review or upgrade to the latest firmware version.
+- Optimization Tip: Run a self-test print job regularly.
+
+=== PRINTER: PRN009 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Due to only 7 total maintenance instances, the printer has not experienced a high level of wear and tear over the past few years.
+- Optimization Tip: Regularly review maintenance records to catch any potential issues before they escalate.
+
+=== PRINTER: PRN010 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Regularly check the printer's belt tension to prevent future power unit repairs.
+- Optimization Tip: Schedule a maintenance check every 100 days to maintain optimal performance.
+
+=== PRINTER: PRN011 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is still active and has only had maintenance 4 times since its installation, indicating it's been well-maintained but should be monitored closely for any future issues.
+- Optimization Tip: Schedule a diagnostic check every 6 months to catch potential problems early.
+
+=== PRINTER: PRN012 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Considering the printer is still in "maintenance" status, but has a long time since last maintenance (257 days), it's likely that the issue can be resolved with routine adjustments.
+- Optimization Tip: Schedule regular maintenance checks every 30 days to catch issues before they escalate.
+
+=== PRINTER: PRN013 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is still active, suggesting it's functioning correctly after recent maintenance.
+- Optimization Tip: Check the toner level regularly to prevent another toner replacement.
+
+- Status Recommendation: Move
+- Maintenance Suggestion: The printer has been inactive for an extended period (217 days) and last maintenance was on 2025-03-09.
+- Optimization Tip: Consider relocating the printer to a more accessible or frequently used area.
+
+- Status Recommendation: Replace
+- Maintenance Suggestion: The total page count is low at 12847, suggesting it might be underutilized.
+- Optimization Tip: Evaluate the need for this specific model and consider downsizing to a smaller printer.
+
+=== PRINTER: PRN014 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Regularly monitor toner levels to prevent waste issues.
+- Optimization Tip: Set a reminder for bi-weekly toner top-ups to maintain optimal printer performance.
+
+=== PRINTER: PRN015 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Color calibration performed every 2 years; consider adjusting schedule to reduce maintenance intervals.
+- Optimization Tip: Update printer firmware to latest version to enhance performance and reliability.
+
+=== PRINTER: PRN016 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is still under warranty, suggesting it's likely to remain in good condition for a while longer.
+- Optimization Tip: Schedule maintenance appointments every 90 days to maintain optimal performance.
+
+=== PRINTER: PRN017 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has had relatively infrequent maintenance, considering its high page count.
+- Optimization Tip: Schedule a more detailed inspection to check for any wear or potential issues before the next scheduled maintenance.
+
+=== PRINTER: PRN018 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is still under warranty (until 2025-09-10), so it's recommended to keep it in its current location until then.
+- Optimization Tip: Check the maintenance records more frequently during the remaining warranty period.
+
+=== PRINTER: PRN019 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: Regularly monitor printer usage to prevent further wear on components like sensors and ink nozzles.
+- Optimization Tip: Adjust paper tray settings to ensure optimal page count distribution and minimize waste.
+
+=== PRINTER: PRN020 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is still active with a relatively low Avg Days Since Maintenance (387.2500).
+- Optimization Tip: Check and clean ink nozzles regularly to prevent clogs.
+
+=== PRINTER: PRN021 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has an average of 365 days between maintenance sessions, suggesting a relatively stable operation history.
+- Optimization Tip: Regularly check for firmware updates to ensure optimal performance.
+
+=== PRINTER: PRN022 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has been active for an extended period, indicating a stable performance with minimal issues.
+- Optimization Tip: Regularly check and update software to ensure compatibility and optimal functionality.
+
+=== PRINTER: PRN023 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer has been active for 225 days, indicating a relatively stable usage pattern with moderate maintenance intervals.
+- Optimization Tip: Run the printer's diagnostic test regularly to ensure optimal performance and catch any potential issues early.
+
+=== PRINTER: PRN024 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer is still in active status, so it's likely functioning within normal parameters, but further monitoring is recommended.
+- Optimization Tip: Regularly check paper jam frequencies to identify potential clogs.
+
+=== PRINTER: PRN025 === ===
+- Status Recommendation: Keep
+- Maintenance Suggestion: The printer's total page count is high, indicating it may be nearing its lifespan.
+- Optimization Tip: Schedule a thorough maintenance check in the next 3-6 months to assess the printer's performance and potential replacement.
+

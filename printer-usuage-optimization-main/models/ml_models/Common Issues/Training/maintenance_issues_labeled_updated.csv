@@ -1,0 +1,143 @@
+record_id,printer_id,maintenance_date,technician,description,cost,issue_type
+MNT001,PRN001,2023-10-16,Amanda Rodriguez,Paper jam fix,395,Paper Jam
+MNT002,PRN022,2024-01-13,Jessica Martinez,Firmware update,350,Firmware Issue
+MNT003,PRN005,2024-01-15,Emily Davis,Roller replacement,96,Roller Issue
+MNT004,PRN010,2024-01-17,David Wilson,Firmware update,440,Firmware Issue
+MNT005,PRN002,2024-01-20,Emily Davis,Paper jam fix,310,Paper Jam
+MNT006,PRN012,2024-01-22,Brian Evans,Routine maintenance,203,Routine Maintenance
+MNT007,PRN008,2024-01-25,David Wilson,Routine maintenance,264,Routine Maintenance
+MNT008,PRN001,2024-02-10,Emily Davis,Roller replacement,465,Roller Issue
+MNT009,PRN011,2024-02-11,Emily Davis,Paper jam fix,400,Paper Jam
+MNT010,PRN015,2024-02-15,Brian Evans,Roller replacement,375,Roller Issue
+MNT011,PRN020,2024-02-18,Olivia Garcia,Routine maintenance,330,Routine Maintenance
+MNT012,PRN024,2024-02-18,John Smith,Firmware update,147,Firmware Issue
+MNT013,PRN021,2024-02-19,Sarah Johnson,Roller replacement,120,Roller Issue
+MNT014,PRN019,2024-02-20,Michael Lee,Sensor calibration,298,Sensor Issue
+MNT015,PRN016,2024-02-25,Emily Davis,Roller replacement,296,Roller Issue
+MNT016,PRN004,2024-02-28,Kevin Thompson,Sensor calibration,353,Sensor Issue
+MNT017,PRN023,2024-02-28,John Smith,Firmware update,427,Firmware Issue
+MNT018,PRN025,2024-02-28,Michael Lee,Roller replacement,214,Roller Issue
+MNT019,PRN006,2024-03-01,David Wilson,Paper jam fix,494,Paper Jam
+MNT020,PRN018,2024-03-02,Michael Lee,Paper jam fix,346,Paper Jam
+MNT021,PRN013,2024-03-04,Emily Davis,Sensor calibration,440,Sensor Issue
+MNT022,PRN003,2024-03-05,Michael Lee,Paper jam fix,102,Paper Jam
+MNT023,PRN006,2024-03-05,Kevin Thompson,Paper jam fix,171,Paper Jam
+MNT024,PRN020,2024-03-08,Sarah Johnson,Roller replacement,399,Roller Issue
+MNT025,PRN014,2024-03-09,Kevin Thompson,Firmware update,315,Firmware Issue
+MNT026,PRN009,2024-03-10,Jessica Martinez,Routine maintenance,164,Routine Maintenance
+MNT027,PRN021,2024-03-11,John Smith,Sensor calibration,234,Sensor Issue
+MNT028,PRN007,2024-03-12,Amanda Rodriguez,Paper jam fix,129,Paper Jam
+MNT029,PRN017,2024-03-14,David Wilson,Routine maintenance,469,Routine Maintenance
+MNT030,PRN005,2024-03-20,Brian Evans,Firmware update,348,Firmware Issue
+MNT031,PRN006,2024-03-21,Olivia Garcia,Routine maintenance,176,Routine Maintenance
+MNT032,PRN002,2024-03-26,David Wilson,Sensor calibration,154,Sensor Issue
+MNT033,PRN012,2024-03-28,Kevin Thompson,Paper jam fix,210,Paper Jam
+MNT034,PRN020,2024-03-29,Brian Evans,Paper jam fix,108,Paper Jam
+MNT035,PRN017,2024-03-30,Jessica Martinez,Routine maintenance,205,Routine Maintenance
+MNT036,PRN006,2024-03-31,Brian Evans,Paper jam fix,294,Paper Jam
+MNT037,PRN021,2024-04-05,Michael Lee,Sensor calibration,324,Sensor Issue
+MNT038,PRN006,2024-04-11,John Smith,Routine maintenance,107,Routine Maintenance
+MNT039,PRN006,2024-04-11,David Wilson,Firmware update,99,Firmware Issue
+MNT040,PRN017,2024-04-16,Jessica Martinez,Sensor calibration,169,Sensor Issue
+MNT041,PRN010,2024-04-17,Amanda Rodriguez,Firmware update,442,Firmware Issue
+MNT042,PRN015,2024-04-17,Brian Evans,Paper jam fix,327,Paper Jam
+MNT043,PRN020,2024-04-22,Amanda Rodriguez,Roller replacement,399,Roller Issue
+MNT044,PRN008,2024-04-25,Olivia Garcia,Paper jam fix,259,Paper Jam
+MNT045,PRN021,2024-04-26,Michael Lee,Routine maintenance,271,Routine Maintenance
+MNT046,PRN025,2024-04-29,Sarah Johnson,Roller replacement,101,Roller Issue
+MNT047,PRN004,2024-04-30,Kevin Thompson,Paper jam fix,493,Paper Jam
+MNT048,PRN023,2024-04-30,David Wilson,Roller replacement,498,Roller Issue
+MNT049,PRN017,2024-04-30,Emily Davis,Sensor calibration,336,Sensor Issue
+MNT050,PRN006,2024-04-30,David Wilson,Paper jam fix,444,Paper Jam
+MNT051,PRN022,2024-05-01,Emily Davis,Roller replacement,442,Roller Issue
+MNT052,PRN018,2024-05-07,Amanda Rodriguez,Sensor calibration,317,Sensor Issue
+MNT053,PRN013,2024-05-08,Kevin Thompson,Routine maintenance,378,Routine Maintenance
+MNT054,PRN003,2024-05-09,Jessica Martinez,Routine maintenance,469,Routine Maintenance
+MNT055,PRN024,2024-05-09,Amanda Rodriguez,Paper jam fix,376,Paper Jam
+MNT056,PRN021,2024-05-10,Emily Davis,Routine maintenance,128,Routine Maintenance
+MNT057,PRN017,2024-05-14,Brian Evans,Paper jam fix,296,Paper Jam
+MNT058,PRN009,2024-05-16,Jessica Martinez,Paper jam fix,253,Paper Jam
+MNT059,PRN005,2024-05-21,Olivia Garcia,Paper jam fix,338,Paper Jam
+MNT060,PRN017,2024-05-21,Emily Davis,Roller replacement,132,Roller Issue
+MNT061,PRN002,2024-05-22,Emily Davis,Firmware update,104,Firmware Issue
+MNT062,PRN021,2024-05-24,Olivia Garcia,Paper jam fix,195,Paper Jam
+MNT063,PRN012,2024-05-29,Brian Evans,Paper jam fix,341,Paper Jam
+MNT064,PRN017,2024-06-05,David Wilson,Sensor calibration,208,Sensor Issue
+MNT065,PRN001,2024-06-11,John Smith,Routine maintenance,467,Routine Maintenance
+MNT066,PRN015,2024-06-18,Jessica Martinez,Roller replacement,329,Roller Issue
+MNT067,PRN011,2024-06-21,Amanda Rodriguez,Paper jam fix,110,Paper Jam
+MNT068,PRN023,2024-06-27,John Smith,Roller replacement,183,Roller Issue
+MNT069,PRN016,2024-06-28,Jessica Martinez,Firmware update,374,Firmware Issue
+MNT070,PRN019,2024-06-28,Amanda Rodriguez,Sensor calibration,468,Sensor Issue
+MNT071,PRN004,2024-06-29,John Smith,Paper jam fix,487,Paper Jam
+MNT072,PRN025,2024-06-29,Brian Evans,Paper jam fix,150,Paper Jam
+MNT073,PRN018,2024-07-03,Kevin Thompson,Paper jam fix,380,Paper Jam
+MNT074,PRN013,2024-07-05,Emily Davis,Firmware update,189,Firmware Issue
+MNT075,PRN003,2024-07-08,David Wilson,Firmware update,138,Firmware Issue
+MNT076,PRN009,2024-07-11,Emily Davis,Firmware update,463,Firmware Issue
+MNT077,PRN005,2024-07-16,Jessica Martinez,Firmware update,156,Firmware Issue
+MNT078,PRN014,2024-07-18,Kevin Thompson,Paper jam fix,468,Paper Jam
+MNT079,PRN007,2024-07-19,Olivia Garcia,Sensor calibration,222,Sensor Issue
+MNT080,PRN002,2024-07-22,Jessica Martinez,Paper jam fix,46,Paper Jam
+MNT081,PRN012,2024-07-24,Michael Lee,Routine maintenance,462,Routine Maintenance
+MNT082,PRN015,2024-08-18,Michael Lee,Routine maintenance,311,Routine Maintenance
+MNT083,PRN004,2024-08-29,Michael Lee,Paper jam fix,222,Paper Jam
+MNT084,PRN023,2024-08-29,Michael Lee,Firmware update,441,Firmware Issue
+MNT085,PRN025,2024-08-29,Sarah Johnson,Roller replacement,441,Roller Issue
+MNT086,PRN008,2024-08-30,Jessica Martinez,Firmware update,327,Firmware Issue
+MNT087,PRN018,2024-09-05,Olivia Garcia,Routine maintenance,73,Routine Maintenance
+MNT088,PRN013,2024-09-06,Brian Evans,Paper jam fix,182,Paper Jam
+MNT089,PRN003,2024-09-07,John Smith,Firmware update,294,Firmware Issue
+MNT090,PRN009,2024-09-09,Jessica Martinez,Paper jam fix,273,Paper Jam
+MNT091,PRN024,2024-09-15,Olivia Garcia,Sensor calibration,93,Sensor Issue
+MNT092,PRN022,2024-09-18,Olivia Garcia,Paper jam fix,44,Paper Jam
+MNT093,PRN005,2024-09-18,Sarah Johnson,Paper jam fix,264,Paper Jam
+MNT094,PRN002,2024-09-23,Emily Davis,Paper jam fix,307,Paper Jam
+MNT095,PRN010,2024-09-26,Sarah Johnson,Paper jam fix,488,Paper Jam
+MNT096,PRN012,2024-09-26,Olivia Garcia,Firmware update,125,Firmware Issue
+MNT097,PRN011,2024-10-09,Kevin Thompson,Routine maintenance,380,Routine Maintenance
+MNT098,PRN016,2024-10-17,Emily Davis,Roller replacement,420,Roller Issue
+MNT099,PRN015,2024-10-20,Sarah Johnson,Firmware update,274,Firmware Issue
+MNT100,PRN019,2024-10-23,John Smith,Routine maintenance,140,Routine Maintenance
+MNT101,PRN004,2024-10-28,Emily Davis,Firmware update,434,Firmware Issue
+MNT102,PRN023,2024-10-30,Olivia Garcia,Roller replacement,162,Roller Issue
+MNT103,PRN013,2024-11-07,Kevin Thompson,Sensor calibration,244,Sensor Issue
+MNT104,PRN018,2024-11-07,Amanda Rodriguez,Routine maintenance,434,Routine Maintenance
+MNT105,PRN003,2024-11-09,Amanda Rodriguez,Roller replacement,124,Roller Issue
+MNT106,PRN009,2024-11-10,Emily Davis,Paper jam fix,297,Paper Jam
+MNT107,PRN007,2024-11-11,John Smith,Sensor calibration,63,Sensor Issue
+MNT108,PRN005,2024-11-19,Emily Davis,Roller replacement,297,Roller Issue
+MNT109,PRN002,2024-11-25,Olivia Garcia,Sensor calibration,204,Sensor Issue
+MNT110,PRN014,2024-11-27,Kevin Thompson,Routine maintenance,347,Routine Maintenance
+MNT111,PRN012,2024-11-27,David Wilson,Roller replacement,411,Roller Issue
+MNT112,PRN024,2024-12-19,Michael Lee,Sensor calibration,192,Sensor Issue
+MNT113,PRN015,2024-12-22,Jessica Martinez,Firmware update,496,Firmware Issue
+MNT114,PRN023,2024-12-29,John Smith,Firmware update,240,Firmware Issue
+MNT115,PRN025,2024-12-30,Emily Davis,Paper jam fix,55,Paper Jam
+MNT116,PRN004,2024-12-30,Amanda Rodriguez,Roller replacement,105,Roller Issue
+MNT117,PRN008,2025-01-06,Amanda Rodriguez,Firmware update,363,Firmware Issue
+MNT118,PRN003,2025-01-08,Kevin Thompson,Firmware update,451,Firmware Issue
+MNT119,PRN013,2025-01-08,Michael Lee,Sensor calibration,387,Sensor Issue
+MNT120,PRN018,2025-01-08,David Wilson,Sensor calibration,250,Sensor Issue
+MNT121,PRN009,2025-01-12,Olivia Garcia,Paper jam fix,149,Paper Jam
+MNT122,PRN005,2025-01-21,Amanda Rodriguez,Firmware update,379,Firmware Issue
+MNT123,PRN010,2025-01-25,Emily Davis,Routine maintenance,128,Routine Maintenance
+MNT124,PRN002,2025-01-27,John Smith,Sensor calibration,86,Sensor Issue
+MNT125,PRN012,2025-01-30,Amanda Rodriguez,Sensor calibration,360,Sensor Issue
+MNT126,PRN001,2025-02-12,Sarah Johnson,Paper jam fix,322,Paper Jam
+MNT127,PRN022,2025-02-22,Emily Davis,Paper jam fix,464,Paper Jam
+MNT128,PRN015,2025-02-23,Emily Davis,Firmware update,232,Firmware Issue
+MNT129,PRN019,2025-02-26,Emily Davis,Roller replacement,76,Roller Issue
+MNT130,PRN025,2025-02-27,John Smith,Paper jam fix,187,Paper Jam
+MNT131,PRN004,2025-02-27,Jessica Martinez,Sensor calibration,500,Sensor Issue
+MNT132,PRN011,2025-02-28,Jessica Martinez,Roller replacement,406,Roller Issue
+MNT133,PRN016,2025-02-28,Brian Evans,Paper jam fix,440,Paper Jam
+MNT134,PRN023,2025-02-28,Olivia Garcia,Roller replacement,207,Roller Issue
+MNT135,PRN014,2025-03-09,Amanda Rodriguez,Paper jam fix,402,Paper Jam
+MNT136,PRN003,2025-03-09,Kevin Thompson,Routine maintenance,151,Routine Maintenance
+MNT137,PRN013,2025-03-09,Jessica Martinez,Routine maintenance,211,Routine Maintenance
+MNT138,PRN018,2025-03-10,Jessica Martinez,Paper jam fix,486,Paper Jam
+MNT139,PRN009,2025-03-13,Brian Evans,Sensor calibration,281,Sensor Issue
+MNT140,PRN024,2025-03-19,Jessica Martinez,Firmware update,51,Firmware Issue
+MNT141,PRN007,2025-03-28,John Smith,Sensor calibration,209,Sensor Issue
+MNT142,PRN025,2025-04-24,Jessica Martinez,Sensor calibration,333,Sensor Issue
